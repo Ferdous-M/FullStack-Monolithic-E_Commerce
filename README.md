@@ -1,6 +1,6 @@
 # Full-Stack E-Commerce Project
 
-A complete full-stack e-commerce application built with Spring Boot for the backend and React + Vite for the frontend.
+This is a complete full-stack e-commerce application built with Spring Boot for the backend and React + Vite for the frontend.
 
 ## 📖 Project Overview
 
