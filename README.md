@@ -47,28 +47,28 @@ spring-boot-course/
 │   ├── src/
 │   │   └── main/
 │   │       ├── java/com/social/media/
-│   │       │   ├── MediaApplication.java      # Main Spring Boot app
-│   │       │   ├── controllers/SocialController.java   # REST API endpoints
-│   │       │   ├── models/                  # JPA entities (SocialUser, SocialGroup, SocialProfile, Post)
-│   │       │   ├── repositories/            # Spring Data JPA repositories
-│   │       │   └── services/SocialService.java   # Business logic
-│   │       └── resources/application.properties  # H2 config, SQL logging
-│   └── pom.xml                                  # Maven dependencies
+│   │       │   ├── MediaApplication.java      
+│   │       │   ├── controllers/SocialController.java  
+│   │       │   ├── models/                  
+│   │       │   ├── repositories/            
+│   │       │   └── services/SocialService.java   
+│   │       └── resources/application.properties  
+│   └── pom.xml                                  
 │
-├── ecom-frontend/                  # React + Vite Frontend
+├── ecom-frontend/                  
 │   ├── src/
-│   │   ├── components/          # Reusable UI components
-│   │   ├── hooks/              # Custom React hooks
-│   │   ├── store/              # Redux store + reducers
-│   │   ├── api/api.js          # Axios instance with backend URL
-│   │   ├── App.jsx             # Main app with routing
-│   │   ├── index.css           # Global styles
-│   │   └── main.jsx            # Entry point
-│   ├── package.json             # npm dependencies
-│   ├── vite.config.js           # Vite config with React plugin
-│   └── index.html               # HTML template
+│   │   ├── components/        
+│   │   ├── hooks/              
+│   │   ├── store/             
+│   │   ├── api/api.js          
+│   │   ├── App.jsx             
+│   │   ├── index.css           
+│   │   └── main.jsx           
+│   ├── package.json             
+│   ├── vite.config.js           
+│   └── index.html               
 │
-└── README.md                    # This file - Project overview and setup
+└── README.md                    
 ```
 
 ## 🚀 Getting Started
